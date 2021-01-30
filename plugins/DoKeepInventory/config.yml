@@ -1,0 +1,43 @@
+Nopermission:
+  coords-message:
+  - '&7&m&l-------------------------'
+  - ''
+  - '&aYou has been death!'
+  - '&eYou death coords are:'
+  - '&c%deathx%&7, &c%deathy%&7, &c%deathz%'
+  - ''
+  - '&7&m&l-------------------------'
+permission:
+  message:
+  - '&7&m&l-------------------------'
+  - ''
+  - '&aYou inventory has been restored!'
+  - ''
+  - '&7&m&l-------------------------'
+PvPKeepBypass:
+  permissionmsg:
+  - '&7&m&l-------------------------'
+  - ''
+  - '&aYou have a bypass permission!'
+  - '&eyour inventory has been saved!'
+  - ''
+  - '&7&m&l-------------------------'
+  nopermissionmsg:
+  - '&7&m&l-------------------------'
+  - ''
+  - '&aYou have been killed on PvP!'
+  - '&eYou lost your inventory!'
+  - ''
+  - '&7&m&l-------------------------'
+disabledWorlds:
+- exampleworld
+- exampleworld2
+- exampleworld3
+No-Worldbypass-permission:
+- '&7&m&l-------------------------'
+- ''
+- '&aYou have been death on KeepInventory Disable world!'
+- '&eYou lost your inventory!'
+- ''
+- '&7&m&l-------------------------'
+AutoUpdate: true

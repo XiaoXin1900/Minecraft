@@ -1,0 +1,28 @@
+lastAccountName: XiaoXin1900
+timestamps:
+  login: 1611901271978
+  lastteleport: 1611909136031
+  logout: 1611909212048
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 242.0814327014737
+  y: 79.72794106908074
+  z: 119.18660935343628
+  yaw: -357.7035
+  pitch: 29.054668
+logoutlocation:
+  world: world
+  x: 258.6073973750395
+  y: 80.62514792974123
+  z: 307.2239563913901
+  yaw: -186.45331
+  pitch: 30.74966
+homes:
+  home:
+    world: world
+    x: 245.5
+    y: 69.0
+    z: 303.5
+    yaw: 97.195076
+    pitch: 23.399828

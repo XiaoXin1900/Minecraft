@@ -1,0 +1,1 @@
+java -Xms4G -Xmx4G -jar spigot-1.16.5.jar

@@ -1,0 +1,439 @@
+[14:08:18] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:08:19] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:08:22] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:08:22] [Server thread/INFO]: Loading properties
+[14:08:23] [Server thread/INFO]: This server is running CraftBukkit version 2991-Spigot-018b9a0-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[14:08:23] [Server thread/INFO]: Debug logging is disabled
+[14:08:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:08:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:08:23] [Server thread/INFO]: Default game type: SURVIVAL
+[14:08:23] [Server thread/INFO]: Generating keypair
+[14:08:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:08:24] [Server thread/INFO]: Using default channel type
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[F7¹âÕÕÏÔÊ¾]light-overlay-5.5.4.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[REIÄÚÖÃ¹ÜÀíÆ÷]RoughlyEnoughItems-5.8.1.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[ÌåËØµØÍ¼]fabricmod_VoxelMap-1.10.11_for_1.16.3.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[¼±ËÙ¹öÂÖ]mousewheelie-1.5.9+mc1.16.4.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[ºËÐÄ]fabric-api-0.28.4+1.16.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[Ä£×éÁÐ±í]modmenu-1.14.6+build.31.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[Á×-ÓÅ»¯Àà]phosphor-fabric-mc1.16.1-0.6.0+build.7.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[Æ»¹ûÆ¤]appleskin-mc1.16-fabric-1.0.11.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[×°±¸ÄÍ¾ÃÏÔÊ¾]durabilityviewer-1.16.2-fabric0.17.2-1.8.6.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[ËæÔµÐÞ¸´-ÓÅ»¯Àà]randompatches-1.16.1-0.0.0.5-fabric.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[¸ßÁÁÏÔÊ¾]Hwyla-fabric-1.16.2-1.9.23-79.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[¸ßÇåÐÞ¸´]OptiFine_1.16.4_HD_U_G5.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:25] [Server thread/ERROR]: Could not load 'plugins\[¸ßÇåÐÞ¸´Ö§³Ö]optifabric-1.8.0.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:185) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.5.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[14:08:26] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:08:30] [Server thread/WARN]: Legacy plugin DoKeepInventory v4.1 does not specify an api-version.
+[14:08:30] [Server thread/INFO]: [DoKeepInventory] Loading DoKeepInventory v4.1
+[14:08:30] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[14:08:30] [Server thread/INFO]: [MySkin] Loading MySkin v3.3
+[14:08:30] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.2.0
+[14:08:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:08:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:08:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:08:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:08:30] [Server thread/INFO]: Preparing level "world"
+[14:08:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:08:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:08:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:08:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:08:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:08:31] [Server thread/INFO]: View Distance: 10
+[14:08:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:08:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:08:31] [Server thread/INFO]: Mob Spawn Range: 6
+[14:08:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:08:31] [Server thread/INFO]: Max TNT Explosions: 100
+[14:08:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:08:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:08:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:08:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:08:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:08:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:08:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:08:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:08:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:08:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:08:31] [Server thread/INFO]: View Distance: 10
+[14:08:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:08:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:08:31] [Server thread/INFO]: Mob Spawn Range: 6
+[14:08:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:08:31] [Server thread/INFO]: Max TNT Explosions: 100
+[14:08:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:08:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:08:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:08:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:08:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:08:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:08:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:08:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:08:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:08:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:08:31] [Server thread/INFO]: View Distance: 10
+[14:08:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:08:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:08:31] [Server thread/INFO]: Mob Spawn Range: 6
+[14:08:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:08:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:08:31] [Server thread/INFO]: Max TNT Explosions: 100
+[14:08:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:08:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:08:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:08:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:08:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:08:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:34] [Server thread/INFO]: Preparing spawn area: 51%
+[14:08:34] [Server thread/INFO]: Time elapsed: 3383 ms
+[14:08:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:08:36] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:36] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:36] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:36] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:36] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:37] [Server thread/INFO]: Time elapsed: 2327 ms
+[14:08:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:08:37] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:37] [Server thread/INFO]: Preparing spawn area: 0%
+[14:08:38] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[14:08:38] [Worker-Main-11/INFO]: Preparing spawn area: 93%
+[14:08:38] [Server thread/INFO]: Time elapsed: 1686 ms
+[14:08:38] [Server thread/INFO]: [DoKeepInventory] Enabling DoKeepInventory v4.1
+[14:08:38] [Server thread/INFO]: [0;37;22m[9m[21m------------------------------[m
+[14:08:38] [Server thread/INFO]: [m
+[14:08:38] [Server thread/INFO]: [m
+[14:08:38] [Server thread/INFO]: [0;33;1mDoKeepInventory[0;32;1m v4.1 [0;31;1mBETA [0;33;1mhas been enable![m
+[14:08:38] [Server thread/INFO]: [m
+[14:08:38] [Server thread/INFO]: [m
+[14:08:38] [Server thread/INFO]: [0;37;22m[9m[21m------------------------------[m
+[14:08:38] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[14:08:38] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[14:08:38] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[14:08:38] [Server thread/INFO]: No kits found to migrate.
+[14:08:39] [Server thread/INFO]: Loaded 25599 items from items.json.
+[14:08:39] [Server thread/INFO]: Using locale zh_CN
+[14:08:39] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:08:39] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:08:39] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:08:39] [Server thread/INFO]: [MySkin] Enabling MySkin v3.3
+[14:08:39] [Server thread/INFO]: [0;32;1m[MySkin] Running on server version [0;33;1mv1_16_R3[m
+[14:08:39] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.2.0
+[14:08:39] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[14:08:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:08:40] [Server thread/INFO]: Done (9.248s)! For help, type "help"
+[14:08:45] [Craft Scheduler Thread - 4/INFO]: [0;32;1m[MySkin] You are running up to date version [0;33;1m3.3[m
+[14:11:34] [User Authenticator #1/INFO]: UUID of player L_aster_ is 69590913-3a50-30d4-81b9-2270a2901919
+[14:11:34] [Server thread/INFO]: L_aster_[/127.0.0.1:3078] logged in with entity id 253 at ([world]222.9255242330898, 70.0, 368.67354142956106)
+[14:11:48] [Server thread/INFO]: L_aster_ issued server command: /tp
+[14:12:08] [Server thread/INFO]: L_aster_ issued server command: /gamemode survival
+[14:12:24] [Server thread/INFO]: L_aster_ issued server command: /clear L_aster_
+[14:12:28] [Server thread/INFO]: L_aster_ issued server command: /fly
+[14:17:18] [Server thread/INFO]: L_aster_ was shot by Skeleton
+[14:19:03] [Server thread/INFO]: L_aster_ was shot by Skeleton
+[14:24:54] [Server thread/INFO]: L_aster_ issued server command: /gamemode creative
+[14:33:03] [User Authenticator #2/INFO]: UUID of player °×ÅµR is 840e658f-739e-3d96-a58a-ce3d08c1fd1a
+[14:33:03] [Server thread/INFO]: °×ÅµR[/127.0.0.1:3633] logged in with entity id 2818 at ([world]247.5, 70.0, 311.5)
+[14:33:03] [pool-5-thread-1/INFO]: ´´½¨¿ÕµÄÅäÖÃ:C:\Users\XiaoXin\Desktop\Minecraft\plugins\Essentials\userdata\840e658f-739e-3d96-a58a-ce3d08c1fd1a.yml
+[14:33:03] [Server thread/INFO]: °×ÅµR has made the advancement [Getting an Upgrade]
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: java.io.IOException: Server returned HTTP response code: 400 for URL: https://api.mojang.com/users/profiles/minecraft/°×ÅµR
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at java.security.AccessController.doPrivileged(Native Method)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.readURL(MojangAPI.java:78)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.getUUID(MojangAPI.java:23)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at eu.blackfire62.myskin.bukkit.listener.OnLogin.lambda$0(OnLogin.java:49)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: Caused by: java.io.IOException: Server returned HTTP response code: 400 for URL: https://api.mojang.com/users/profiles/minecraft/°×ÅµR
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.readURL(MojangAPI.java:70)
+[14:33:04] [Craft Scheduler Thread - 4/WARN]: 	... 7 more
+[14:34:38] [Server thread/INFO]: L_aster_ issued server command: /op °×ÅµR
+[14:34:38] [Server thread/INFO]: [L_aster_: Made °×ÅµR a server operator]
+[14:35:42] [Server thread/INFO]: °×ÅµR was shot by Skeleton
+[14:36:52] [User Authenticator #3/INFO]: UUID of player °×ÅµR is 840e658f-739e-3d96-a58a-ce3d08c1fd1a
+[14:36:52] [Server thread/INFO]: °×ÅµR lost connection: You logged in from another location
+[14:36:52] [Server thread/INFO]: °×ÅµR left the game
+[14:36:52] [Server thread/INFO]: °×ÅµR[/127.0.0.1:3762] logged in with entity id 3284 at ([world]243.5, 69.0, 306.5)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: java.io.IOException: Server returned HTTP response code: 400 for URL: https://api.mojang.com/users/profiles/minecraft/°×ÅµR
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at java.security.AccessController.doPrivileged(Native Method)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.readURL(MojangAPI.java:78)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.getUUID(MojangAPI.java:23)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.bukkit.listener.OnLogin.lambda$0(OnLogin.java:49)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: Caused by: java.io.IOException: Server returned HTTP response code: 400 for URL: https://api.mojang.com/users/profiles/minecraft/°×ÅµR
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.readURL(MojangAPI.java:70)
+[14:36:53] [Craft Scheduler Thread - 10/WARN]: 	... 7 more
+[14:37:36] [Server thread/INFO]: °×ÅµR lost connection: Disconnected
+[14:37:36] [Server thread/INFO]: °×ÅµR left the game
+[14:38:04] [Server thread/INFO]: L_aster_ lost connection: Disconnected
+[14:38:04] [Server thread/INFO]: L_aster_ left the game
+[14:38:32] [User Authenticator #4/INFO]: UUID of player °×ÅµR is 840e658f-739e-3d96-a58a-ce3d08c1fd1a
+[14:38:32] [Server thread/INFO]: °×ÅµR[/127.0.0.1:3820] logged in with entity id 3399 at ([world]243.5, 69.0, 306.5)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: java.io.IOException: Server returned HTTP response code: 400 for URL: https://api.mojang.com/users/profiles/minecraft/°×ÅµR
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at java.security.AccessController.doPrivileged(Native Method)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.readURL(MojangAPI.java:78)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.getUUID(MojangAPI.java:23)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.bukkit.listener.OnLogin.lambda$0(OnLogin.java:49)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: Caused by: java.io.IOException: Server returned HTTP response code: 400 for URL: https://api.mojang.com/users/profiles/minecraft/°×ÅµR
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	at eu.blackfire62.myskin.shared.util.MojangAPI.readURL(MojangAPI.java:70)
+[14:38:33] [Craft Scheduler Thread - 10/WARN]: 	... 7 more
+[14:38:44] [Server thread/INFO]: °×ÅµR lost connection: Disconnected
+[14:38:44] [Server thread/INFO]: °×ÅµR left the game
+[14:39:28] [Server thread/INFO]: Stopping server
+[14:39:28] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.2.0
+[14:39:28] [Server thread/INFO]: [MySkin] Disabling MySkin v3.3
+[14:39:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.2.0
+[14:39:28] [Server thread/INFO]: [DoKeepInventory] Disabling DoKeepInventory v4.1
+[14:39:28] [Server thread/INFO]: [0;37;22m[9m[21m------------------------------[m
+[14:39:28] [Server thread/INFO]: [m
+[14:39:28] [Server thread/INFO]: [m
+[14:39:28] [Server thread/INFO]: [0;33;1mDoKeepInventory[0;32;1m v4.1 [0;31;1mBETA [0;33;1mhas been disable![m
+[14:39:28] [Server thread/INFO]: [m
+[14:39:28] [Server thread/INFO]: [m
+[14:39:28] [Server thread/INFO]: [0;37;22m[9m[21m------------------------------[m
+[14:39:28] [Server thread/INFO]: Saving players
+[14:39:29] [Server thread/INFO]: Saving worlds
+[14:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
